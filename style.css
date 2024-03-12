@@ -460,6 +460,10 @@ body{
         font-size: 2rem;
         text-align: center;
     }
+
+    .home .heart{
+      display: none;
+    }
     
 }
 /* mobile */
@@ -476,4 +480,7 @@ body{
         padding: 40px;
         margin: 3px;
      }
+     .home .heart{
+      display: none;
+    }
     }
